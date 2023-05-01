@@ -1,3 +1,5 @@
+https://hub.docker.com/repository/docker/musiclala/napoleon_test/general
+
 Запуск проекта:
 - pip install -r requirements.txt
 - python manage.py makemigrations
